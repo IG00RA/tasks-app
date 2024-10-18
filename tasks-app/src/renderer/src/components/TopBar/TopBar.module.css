@@ -2,13 +2,15 @@
   width: 100%;
   height: 30px;
   background-color: #009595;
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
+  z-index: 10;
 }
 .bar_wrap_drag {
   width: calc(100% - 60px);
   height: 30px;
+  position: fixed;
 }
 
 .buttons_wrap {

@@ -24,8 +24,11 @@
     "@emotion/styled": "^11.13.0",
     "@mui/icons-material": "^6.1.4",
     "@mui/material": "^6.1.4",
+    "@mui/styles": "^6.1.4",
+    "axios": "^1.7.7",
     "components": "^0.1.0",
-    "modern-normalize": "^3.0.1"
+    "modern-normalize": "^3.0.1",
+    "notistack": "^3.0.1"
   },
   "devDependencies": {
     "@electron-toolkit/eslint-config": "^1.0.2",
