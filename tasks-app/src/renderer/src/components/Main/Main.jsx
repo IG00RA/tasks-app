@@ -93,7 +93,7 @@ const Main = () => {
   return (
     <Container>
       <Clock />
-      <Typography variant="h4" align="center" gutterBottom>
+      <Typography variant="h4" align="left" gutterBottom>
         Let's do it!
       </Typography>
       <Box mb={4}>

@@ -13,7 +13,7 @@ const Clock = () => {
   }, [])
 
   return (
-    <Typography variant="h4" align="center" color="#009595" gutterBottom>
+    <Typography variant="h4" align="right" color="#009595" gutterBottom>
       {currentTime}
     </Typography>
   )
