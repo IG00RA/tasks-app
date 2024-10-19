@@ -25,5 +25,5 @@ This project is a full-stack application utilizing modern technologies for both 
 
 The project is split into two main components:
 
-- **Front-End**: The client-side of the application built with React.js and Electron.js.
-- **Back-End**: The server-side application powered by Nest.js, handling business logic and database communication.
+- **tasks-app**: The client-side of the application built with React.js and Electron.js.
+- **tasks-server**: The server-side application powered by Nest.js, handling business logic and database communication.
