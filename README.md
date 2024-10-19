@@ -27,3 +27,9 @@ The project is split into two main components:
 
 - **tasks-app**: The client-side of the application built with React.js and Electron.js.
 - **tasks-server**: The server-side application powered by Nest.js, handling business logic and database communication.
+
+### Download Links
+
+You can download the application using the following link:
+
+- [Download Tasks App](http://16.170.226.39:8080/tasks-app.exe)
